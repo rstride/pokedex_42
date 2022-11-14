@@ -6,11 +6,6 @@
 *  - http://www.text-image.com
 */
 
-#ifndef __POKE_IMG__
-#define __POKE_IMG__
-
-#include <stdio.h>
-
 void print_pokemon(int n_pokemon) {
     switch(n_pokemon) {
 case 1:
@@ -5888,12 +5883,5 @@ case 151:
     printf("             /HHHHHHHHH/\n");
 
     break;
-
-
-
-
     }
 }
-
-
-#endif
