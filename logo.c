@@ -10,10 +10,10 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "pokedex_ascii.h"
+//#include "pokedex_ascii.h"
 
 void logo(int n)
 {
-	if (n = 0)
-		print_pokemon(n);
+	//if (n != 0)
+		//print_pokemon(n);
 }

@@ -1,10 +1,10 @@
 // C program for the above approach
-#include <conio.h>
+//#include <conio.h>
 #include <stdio.h>
 #include <string.h>
 
 // Driver Code
-int main()
+int parse_csv()
 {
 	// Substitute the file_path string
 	// with full path of CSV file
@@ -22,7 +22,7 @@ int main()
 	// Asking user input for the
 	// new record to be added
 	printf("\nEnter Account Holder Name\n");
-	scanf("%s", &name);
+	scanf("%s", name);
 	printf("\nEnter Account Number\n");
 	scanf("%d", &accountno);
 	printf("\nEnter Available Amount\n");
