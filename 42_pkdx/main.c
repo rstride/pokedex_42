@@ -56,6 +56,8 @@ int main(int argc, char const *argv[])
 	struct poke *lst_pkm;
 	int nb_of_poke = 200;
 
+
+
 	lst_pkm = malloc(sizeof(struct poke) * nb_of_poke);
 
 	for (int i = 0; i < nb_of_poke; i++)
@@ -103,6 +105,17 @@ int main(int argc, char const *argv[])
 		{
 			select_pkm(lst_pkm, pkmn_nbr);
 			print_pokemon(pkmn_nbr);
+			char nbr[5];
+			sprintf(nbr, "%d", pkmn_nbr);
+			char cri[100] = "nvlc voices/Cri_4_d_";
+			if (pkmn_nbr < 10)
+				strcat(cri, "00");
+			else if (pkmn_nbr < 100)
+				strcat(cri, "0");
+			strcat(cri, nbr);
+			strcat(cri, "* &");
+			printf("%s", cri);
+			system(cri);
 			printf("\n        Appuyez sur entree pour continuer");
 			getchar();
 			getchar();

@@ -58,7 +58,7 @@ void free_db(char **data)
 int	fill_db(struct poke *lst_pkm)
 {
     FILE *file;
-    file = fopen("pokedex.csv", "r");
+    file = fopen("pkdx.csv", "r");
 
     int i = 0;
     int row = 152;
