@@ -46,6 +46,13 @@ int main(int argc, char const *argv[])
 	struct poke *lst_pkm;
 	int nb_of_poke = 200;
 
+	char str_spaces[50] = "                                       ";
+	char str_bdd[50] = "Lecture de la base de donnees";
+	char str_nbpkm[50] = " pokémons enregistrés";
+	char str_welcome[100] = "*** Bienvenue sur le Pokedex ***";
+	char str_enternbr[50] = "Entrez un numero de Pokemon";
+
+	char first_run = 1;
 
 
 	lst_pkm = malloc(sizeof(struct poke) * nb_of_poke);
@@ -65,7 +72,12 @@ int main(int argc, char const *argv[])
 	//compile_error();
 	//logo(argv[1]);
 	system("clear");
-	write(1, "\n\t   Lecture de la base de donnees", 33);
+	write(1, str_spaces, 12);
+	for (int i = 0; i < 29; i++)
+	{
+		write(1, &str_bdd[i], 1);
+		my_delay(50);
+	}
 	for (int i = 0; i < 3; i ++)
 	{
 		write(1, ".", 1);
@@ -73,16 +85,59 @@ int main(int argc, char const *argv[])
 	}
 	//pkm_db = create_db();
 	
+
 	nb_pkm = fill_db(lst_pkm);
-	printf("\n");
-	printf("\t     \033[1m%d\033[0m pokémons enregistrés\n\n\n", nb_pkm - 2);
-	my_delay(2500);	//2000
+	write(1, "\n", 1);
+	//printf("\t     \033[1m%d\033[0m pokémons enregistrés\n\n\n", nb_pkm - 2);
+
+	write(1, str_spaces, 15);
+	char str_nb_pkm[4];
+	printf("\033[1m");
+	sprintf(str_nb_pkm, "%d", nb_pkm - 2);
+	write(1, &str_nb_pkm, 3);
+	printf("\033[0m");
+	for (int i = 0; i < 29; i++)
+	{
+		write(1, &str_nbpkm[i], 1);
+		my_delay(50);
+	}
+	write(1, "\n\n\n", 3);
+	my_delay(3000);	//2000
+
+
 
 	pkmn_nbr = 1;
 	while (pkmn_nbr != 0)
 	{
 		system("clear");
-		printf("\033[1m\n\t  *** Bienvenue sur le Pokedex ***\n\t    Entrez un numero de Pokemon\n\033[0m\t\t   > ");
+		//*** Bienvenue sur le Pokedex ***\n\t    Entrez un numero de Pokemon\n\033[0m\t\t   > ");
+		printf("\033[1m\n");
+		if (first_run)
+		{
+			write(1, str_spaces, 12);
+			for (int i = 0; i < 32; i++)
+			{
+				write(1, &str_welcome[i], 1);
+				my_delay(50);
+			}
+			my_delay(1000);
+			write(1, "\n", 1);
+			write(1, str_spaces, 14);
+			for (int i = 0; i < 27; i++)
+			{
+				write(1, &str_enternbr[i], 1);
+				my_delay(50);
+			}
+			printf("\033[0m");
+			write(1, "\n", 1);
+			write(1, str_spaces, 20);
+			write(1, "> ", 2);
+			first_run = 0;
+		}
+		else
+		{
+			printf("\033[1m            *** Bienvenue sur le Pokedex ***\n              Entrez un numero de Pokemon\n\033[0m\t\t    > ");
+		}
 
 		scanf("%d", &pkmn_nbr);
 		//printf("%d", pkmn_nbr);
