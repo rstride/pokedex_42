@@ -5885,5 +5885,145 @@ case 151:
     printf("             /HHHHHHHHH/\n");
 
     break;
-    }
+
+
+case 152:
+    printf("                       ....°°.°*°.°...                              \n");
+    printf("                  °°°**°oooOOOOOOOOOOOOooo°.                        \n");
+    printf("             ..°°oOO######OOOOOO############Ooo**°.                 \n");
+    printf("             °O**o###############O###############OOoo°              \n");
+    printf("              o°.*oOOOoooooooooooOoOOOOO###########Ooo.             \n");
+    printf("              Oo°    ........    °*°°oooOOOO########OOo.            \n");
+    printf("             ..                    ..°**o#############OOo.          \n");
+    printf("            .                         °°*##OOO##########Oo°         \n");
+    printf("          ..                            °OOO#O############Oo        \n");
+    printf("         °°                              *OOO#O############*        \n");
+    printf("        .o                               *OOOOO#O#########@O        \n");
+    printf("        O                                °OooOO#############*       \n");
+    printf("       *°                                *ooOOOOO###O#####OO#°      \n");
+    printf("       ° .     ...                       *oOOOooOO##OO@#OO#OO*      \n");
+    printf("       °OOo°° .*OOOOOOoo*°               *OOOOOoOOO#O###OO#OO*      \n");
+    printf("       O###O*  °*oOOOOOOoo*°.            .O###OOO#OOO#OOO##O#*      \n");
+    printf("       *##OO°   *ooO##O°*oo*°°.           *OO#####O##@#O##OO#*      \n");
+    printf("        o@o     °*°ooOo ..°°°.           .ooOO####Oo***o#OO#O*      \n");
+    printf("         *        °oo**°.                .oooOOOOo......°OO#O°      \n");
+    printf("                    .°°.                 .oOo***°°.   °* °##O°      \n");
+    printf("                                         °oo°  ..o°.   . °##o°      \n");
+    printf("       .                                °..     ..°*.    O#O*       \n");
+    printf("       °o°*ooO*. °.                    .°       .       o#OOo*°     \n");
+    printf("        *ooO***°.  .                   .°              *@##OO@@#*.  \n");
+    printf("        *O#Ooo°                         .             *@#####@#@@@o \n");
+    printf("       .O###O#Oo**°                   .      .      .o@#####@@@@@#@o\n");
+    printf("       .#OOOOOOO##Oo°.     . .. .°..... ... .O°.....*OO#@#@@@@@@@@#@\n");
+    printf("        *####OOoOOOOO*  ..°*°*°..°°........  °.   ...°*O#@@@@@@@@@@#\n");
+    printf("        *@#####OOoooOO*.°**oo°*°°°*****°°*°. .     .  oO@@@@@@@@@@@@\n");
+    printf("        °@@#####o****oO*°*oOoooo*oOOooOoo*°.         °°O@#@@@@@@@@@@\n");
+    printf("         .#@##@#Oo***O#OooOOOoOOOOO#O##O*°.         . *@@@@@@@@@@@@@\n");
+    printf("           o#@#@Ooo*OO##OO###O#######Oo*°.           °@@@@@@@@@@@@@@\n");
+    printf("             o@@OOOOO#######@@@####OOo*°.           °#@@@@@@@@@@@@@@\n");
+    printf("             .@@######@@@@@@@@####Oo*°...         .°*@@@@@@@@@@@@@@@\n");
+    printf("              *@@####@@@@@@@@@###Ooo*°..         ...#@@@@@@@@@@@@@@#\n");
+    printf("               .o@@@@@@@@@@@@@#Oooo*°°..       ..  O@@@@@@@@@@@@@##@\n");
+    printf("                 .O@@@@@@@@###OOoo*°°...      .  .o@@@@@@@@@@@@@@@@@\n");
+    printf("                   °*oO####OOOOOoo**°°°... ..   .*o@@@@@@@@@@@@@@@@#\n");
+    printf("                       .oOOOOOOOoooo**°°....   .*.o@@@@@@@@@@@@@@###\n");
+    printf("                         ##O#OOOOOoooo**°..  .°*  @@@@@@@@@@@@@@###@\n");
+    printf("                       °O@@#O#OOOOOooo**°°...°*. *@@@@@@@@@@@@###@@@\n");
+    printf("                     °O@##@**OOOOOOoo****°°°°°. *#@@@@@@@@@@@###@@@@\n");
+
+    break;
+
+case 153:
+    printf("                                                           ..°°     \n");
+    printf("                                                       ..°****oo°   \n");
+    printf("                                 ..                .°o**ooo*oooo*°  \n");
+    printf("                      .o°.. °o..*Ooo*o°°*. ..    °*ooooo*o*****ooO. \n");
+    printf("                      o**oOooOo*°**ooo**°. ..°°. *o*ooooo*****oooo. \n");
+    printf("                  ..°.°oo*OOo*oOo*o***°°      ...*o*o**oo*ooOOo***. \n");
+    printf("                ...     ..°°°°°°********°°.      .*o**OooooOOooo*°  \n");
+    printf("              .°.        ......°°°°******°°.       ooo*oooooooooo*  \n");
+    printf("             °.           .....°°°°°°**°°°°...     ..°°..°*ooooOoo. \n");
+    printf("            °              .......°°°°°*°°°. .        °.   .°*oooo. \n");
+    printf("           *.               . ......°°°°°°°...     ... *      ....  \n");
+    printf("           *                .........°°°°°°°*.     o*°  *           \n");
+    printf("           *                .....°°°°°°°*°*°*°     °°°.°°°          \n");
+    printf("          °*             .    ....°°°°°°°°°°°.    ..  °*°°          \n");
+    printf("         .*.                      ..  ...°°°.         .*°*°         \n");
+    printf("         *°.                       .°**ooOOOo*°       .°*o°         \n");
+    printf("         °*.   °***oooo*°°      °oooOo*°°°°*ooOo..    .°°o°         \n");
+    printf("         **  °*oo*******O*....°**°°.  ..  .   °*oo°°°°°°**°         \n");
+    printf("        .o°...      .  .°**° °*oo . .°°*OO*..   *  °°******         \n");
+    printf("        °.°.    .oOOO° .**°. **.oo. °*.*oo*.. ..o.    .**o°         \n");
+    printf("        °Oo      °°°.  °°.° .** .oo°          .**.     .  °.        \n");
+    printf("        °°*.         ..°*   .**  .*o*°...°*°°**° .      . .o.       \n");
+    printf("       .°  ..... .  .°°°    .**° °..*oooooooo*°.         ° *.       \n");
+    printf("       .*    °*.°*°**°.     ..°   .°°*°°°°°°°..          **.°       \n");
+    printf("       °°          ..    .    ..°. *o*°°°°...         . .*O°°       \n");
+    printf("      .*            ..  *o*   °oo*°**°........       .  **°°°       \n");
+    printf("       *           ..     ..°°**°°**°..   ..        ..   ...°       \n");
+    printf("       °°          .   .°°oOooOOOOo*****°. .        °. .°**         \n");
+    printf("       .*         .°..°oo**oo*oooooOoooOOO*..       .. **.          \n");
+    printf("        *°       .°°.°°°°°°****ooo*ooooOOOo°.  ..    °°.            \n");
+    printf("        .*       °****°.. ..°..°°...*oOOOo**°..°.   °*              \n");
+    printf("         °°      .oo.    .°*ooo**°..°*oOOOoOo°°*° ..°.              \n");
+    printf("          °.   . .o*.   .*OOOOOoo*°°°*oOOOOOoo°°*°°*°               \n");
+    printf("           o. .°*ooo*.  °**oOOOooo**ooOOOOOOOooo**oo°               \n");
+    printf("           °o° °*oooo* .**°*OOoOOooOOOOOOOOOOOooOO*.                \n");
+    printf("            .****oOOO*.o*oooOOOOO*oOOOOOOOOOoOOOOo                  \n");
+    printf("              oo*oOOo*oOooOOOOOOooOOOOOOOOOOOOo**.                  \n");
+    printf("              .oooOoOoOOOoOOOOOOOOOOOOOOOOOOo*°.°°                  \n");
+    printf("               .oOOoOOOOOOOOOOOOOOOOOOOOOOOo°°***°                  \n");
+    printf("                 °*OOOOOOOOOOOOOOOOOOOOOOo*°°***°.                  \n");
+    printf("                   °oOOOOOOOOOOOOOOOOOoo*°°***°°.                   \n");
+    printf("                     °°°*ooOOOOOOOoo**°*°°°***°°.                   \n");
+    printf("                   .     .°****oo***********°°...                   \n");
+    printf("                         ..°°*********°°°°°°°°...                   \n");
+
+    break;
+
+case 154:
+    printf("                   ...°°°*******ooo******°...                       \n");
+    printf("                 °*ooOOOOOOOOOOOOOOOOOOOOOOoo*.                     \n");
+    printf("              .**OOOOOOOOOOOoOOOOOOOOOOOOOOOOOO*.                   \n");
+    printf("             .oOOOOOOOOOOOOOoOOOOOOOOOOOOOOOOOOOO*.                 \n");
+    printf("            °oOOOOOOOOOOOOOOooOOOOOOoOOOOOOOOOOOOOO*.               \n");
+    printf("           °OOOOOOOOOOOOOo**°°*ooOOOOOOOOOOOOOOOOOOOo°              \n");
+    printf("          .OOOOOOOOOOOO*°..      .°oOOOOOOOOOOOOOOOOOOo.            \n");
+    printf("         .oOOOOOOOOOOo°...          °oOOOOOOOOOOOOOOOOOo.           \n");
+    printf("        .oOOOOOOOOOOo*....            .*oOOOOOOOOOOOOOOO*           \n");
+    printf("       .*OOOOOOOOOOo*°...                .°*oOOOOOOOOOOOo.          \n");
+    printf("       °OOOOOOOOOOo*°...                      .oOOOOOOOOO*.         \n");
+    printf("      .OOOOOOOOOOOo°                    ..°°°°..°OOOOOOOOOo.        \n");
+    printf("     .oOOOOOOOOOOOo**oooooo**.       .°oooo*°°.. °OOOOOOOOO*.       \n");
+    printf("     °OOOOOOOOOOOo*°°°°°°°oOOO°     °ooo°         °OOOOOOOOO°       \n");
+    printf("    .oOOOOOOOOOOO*****°...°*ooo.    °**oooooooo*.  .OOOOOOOOo.      \n");
+    printf("    .OOOOOOOOOOOOoOOOOOOOo°***°.   .° .°°****ooo°.  .oOOOOOOOo.     \n");
+    printf("    °OOOOOOOOOOo**oOOOo**..  ..    .*   ......       .oOOOOOOO*.    \n");
+    printf("   .oOOOOOOOOOO°..°.......   °°     .°                .OOOOOOOO.    \n");
+    printf("   .OOOOOOOOOOo°..           *.     .°                .OO°°OOOO.    \n");
+    printf("   °OOOOOOOOOOo°...         .*o*...°**                .OOo*OOOO.    \n");
+    printf("  .*OOOOOOOOOOo*°......     *OOOOoooo*  ..           ..OOOOoOOO.    \n");
+    printf("  .oOOOOOOOOOOo*°°......    ..°***.      ....       ...oOOOooOO.    \n");
+    printf("  .oOOOOOOOOOOo***°.....                   .°.....  ...*OOooooO.    \n");
+    printf("  .OOOOOOOOOOOo****°....°°°°°°***°°****°°°. .. .    .. .OOooooO.    \n");
+    printf("  .OOOOOOOOOOOo****°.....*ooooo°°***o**°°°.         .. .oOooOOO.    \n");
+    printf("  .oOOOOOOOOOOo****°..    ..°°°°°**°...            ...°**°oOOOO.    \n");
+    printf("  .oOOOOOOOOOOOo****°.. .........                 ..°OOOO*oOOOo.    \n");
+    printf("   *OOOOOOOOOOOOoo**°°.....                     ...*OOOOOOOOOO°     \n");
+    printf("   °OOOOOOOOOOOOOooo**°..°.                    ..°*OOOOOOOOOOo.     \n");
+    printf("   .OOOOOOOOOOOOooooooo**°°..                ..°oOOOOOOOOOOOOo.     \n");
+    printf("   .oOOOOOOOOOooo***ooooooo**°.........°°°°°*ooOOOOOOOOOOOOOOO°     \n");
+    printf("   .oOOOOOOOOOo**********oooooo******oooooooOOOOOOOOOoOoooOOOOo.    \n");
+    printf("   .oOOOOOOOOOoooo**********************oooooOOOOOOOOOOoooOOOOO°    \n");
+    printf("   .oOOOOOOOOOOooooo**********************ooOOOOOOOOOOOOOOOOOOO°    \n");
+    printf("   .oOOOOOOOOOOOoo************************oooOOOOOOOOOOOOOOOOOO.    \n");
+    printf("   .oOOOOOOOOOOOOoo**********************oooOOOOOOOOOOOOOOOOOOO.    \n");
+    printf("   .oOOOOOOOOOOOOOOoo*******************oooOOoOOOOOOOOOOOOOOOOO.    \n");
+    printf("   .OOOOOOOOOOOOOOOOooo****************ooOOOoOOOOOOOOOOOOOOOOOO°    \n");
+    printf("   .OOOOOOOOOOOOOOOOOooo***********°°°oOOOOOOOOOOOOOOOOOOOOOOOO°    \n");
+    printf("   .OOOOOOOOOOOOOOOOOOOOo*****°°°..  .°°°°°°******oooo*******°°.    \n");
+    printf("    ..°°°°°°°°°°°°°°°°°°°..                                         \n");
+
+    break;
+}
 }

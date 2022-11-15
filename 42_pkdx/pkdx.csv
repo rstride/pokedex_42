@@ -1,159 +1,162 @@
 Nom-Type 1-Type 2-Total-HP-Attaque-Defense-Attaque speciale-Defense speciale-Vitesse-Generation-Legendaire
-Bulbizarre-Plante-Poison-318-45-49-25-65-65-45-1-False
-Herbizarre-Plante-Poison-405-60-62-32-80-80-60-1-False
-Florizarre-Plante-Poison-525-80-82-42-100-100-80-1-False
-Salameche-Feu--309-39-52-22-60-50-65-1-False
-Reptincel-Feu--405-58-64-29-80-65-80-1-False
-Dracaufeu-Feu-Vol-534-78-84-39-109-85-100-1-False
-Carapuce-Eau--314-44-48-33-50-64-43-1-False
-Carabaffe-Eau--405-59-63-40-65-80-58-1-False
-Tortank-Eau--530-79-83-50-85-105-78-1-False
-Chenipan-Insecte--195-45-30-18-20-20-45-1-False
-Chrysacier-Insecte--205-50-20-28-25-25-30-1-False
-Papilusion-Insecte-Vol-395-60-45-25-90-80-70-1-False
-Aspicot-Insecte-Poison-195-40-35-15-20-20-50-1-False
-Coconfort-Insecte-Poison-205-45-25-25-25-25-35-1-False
-Dardargnan-Insecte-Poison-395-65-90-20-45-80-75-1-False
-Roucool-Normal-Vol-251-40-45-20-35-35-56-1-False
-Roucoups-Normal-Vol-349-63-60-28-50-50-71-1-False
-Roucarnage-Normal-Vol-479-83-80-38-70-70-101-1-False
-Rattata-Normal--253-30-56-18-25-35-72-1-False
-Rattatac-Normal--413-55-81-30-50-70-97-1-False
-Piafabec-Normal-Vol-262-40-60-15-31-31-70-1-False
-Rapasdepic-Normal-Vol-442-65-90-33-61-61-100-1-False
-Abo-Poison--288-35-60-22-40-54-55-1-False
-Arbok-Poison--438-60-85-35-65-79-80-1-False
-Pikachu-Electrik--320-35-55-20-50-50-90-1-False
-Raichu-Electrik--485-60-90-28-90-80-110-1-False
-Sabelette-Sol--300-50-75-43-20-30-40-1-False
-Sablaireau-Sol--450-75-100-55-45-55-65-1-False
-Nidoran femelle-Poison--275-55-47-26-40-40-41-1-False
-Nidorina-Poison--365-70-62-34-55-55-56-1-False
-Nidoqueen-Poison-Sol-505-90-92-44-75-85-76-1-False
-Nidoran male-Poison--273-46-57-20-40-40-50-1-False
-Nidorino-Poison--365-61-72-29-55-55-65-1-False
-Nidoking-Poison-Sol-505-81-102-39-85-75-85-1-False
-Melofee-Fee--323-70-45-24-60-65-35-1-False
-Melodelfe-Fee--483-95-70-37-95-90-60-1-False
-Goupix-Feu--299-38-41-20-50-65-65-1-False
-Feunard-Feu--505-73-76-38-81-100-100-1-False
-Rondoudou-Normal-Fee-270-115-45-10-45-25-20-1-False
-Grodoudou-Normal-Fee-435-140-70-23-85-50-45-1-False
-Nosferapti-Poison-Vol-245-40-45-18-30-40-55-1-False
-Nosferalto-Poison-Vol-455-75-80-35-65-75-90-1-False
-Mystherbe-Plante-Poison-320-45-50-28-75-65-30-1-False
-Ortide-Plante-Poison-395-60-65-35-85-75-40-1-False
-Rafflesia-Plante-Poison-490-75-80-43-110-90-50-1-False
-Paras-Insecte-Plante-285-35-70-28-45-55-25-1-False
-Parasect-Insecte-Plante-405-60-95-40-60-80-30-1-False
-Mimitoss-Insecte-Poison-305-60-55-25-40-55-45-1-False
-Aeromite-Insecte-Poison-450-70-65-30-90-75-90-1-False
-Taupiqueur-Sol--265-10-55-13-35-45-95-1-False
-Triopikeur-Sol--405-35-80-25-50-70-120-1-False
-Miaouss-Normal--290-40-45-18-40-40-90-1-False
-Persian-Normal--440-65-70-30-65-65-115-1-False
-Psykokwak-Eau--320-50-52-24-65-50-55-1-False
-Akwakwak-Eau--500-80-82-39-95-80-85-1-False
-Ferosinge-Combat--305-40-80-18-35-45-70-1-False
-Colossinge-Combat--455-65-105-30-60-70-95-1-False
-Caninos-Feu--350-55-70-23-70-50-60-1-False
-Arcanin-Feu--555-90-110-40-100-80-95-1-False
-Ptitard-Eau--300-40-50-20-40-40-90-1-False
-Têtarte-Eau--385-65-65-33-50-50-90-1-False
-Tartard-Eau-Combat-510-90-95-48-70-90-70-1-False
-Abra-Psy--310-25-20-8-105-55-90-1-False
-Kadabra-Psy--400-40-35-15-120-70-105-1-False
-Alakazam-Psy--500-55-50-23-135-95-120-1-False
-Machoc-Combat--305-70-80-25-35-35-35-1-False
-Machopeur-Combat--405-80-100-35-50-60-45-1-False
-Mackogneur-Combat--505-90-130-40-65-85-55-1-False
-Chetiflor-Plante-Poison-300-50-75-18-70-30-40-1-False
-Boustiflor-Plante-Poison-390-65-90-25-85-45-55-1-False
-Empiflor-Plante-Poison-490-80-105-33-100-70-70-1-False
-Tentacool-Eau-Poison-335-40-40-18-50-100-70-1-False
-Tentacruel-Eau-Poison-515-80-70-33-80-120-100-1-False
-Racaillou-Roche-Sol-300-40-80-50-30-30-20-1-False
-Gravalanch-Roche-Sol-390-55-95-58-45-45-35-1-False
-Grolem-Roche-Sol-495-80-120-65-55-65-45-1-False
-Ponyta-Feu--410-50-85-28-65-65-90-1-False
-Galopa-Feu--500-65-100-35-80-80-105-1-False
-Ramoloss-Eau-Psy-315-90-65-33-40-40-15-1-False
-Flagadoss-Eau-Psy-490-95-75-55-100-80-30-1-False
-Magneti-Electrik-Acier-325-25-35-35-95-55-45-1-False
-Magneton-Electrik-Acier-465-50-60-48-120-70-70-1-False
-Canarticho-Normal-Vol-352-52-65-28-58-62-60-1-False
-Doduo-Normal-Vol-310-35-85-23-35-35-75-1-False
-Dodrio-Normal-Vol-460-60-110-35-60-60-100-1-False
-Otaria-Eau--325-65-45-28-45-70-45-1-False
-Lamantine-Eau-Glace-475-90-70-40-70-95-70-1-False
-Tadmorv-Poison--325-80-80-25-40-50-25-1-False
-Grotadmorv-Poison--500-105-105-38-65-100-50-1-False
-Kokiyas-Eau--305-30-65-50-45-25-40-1-False
-Crustabri-Eau-Glace-525-50-95-90-85-45-70-1-False
-Fantominus-Spectre-Poison-310-30-35-15-100-35-80-1-False
-Spectrum-Spectre-Poison-405-45-50-23-115-55-95-1-False
-Ectoplasma-Spectre-Poison-500-60-65-30-130-75-110-1-False
-Onix-Roche-Sol-385-35-45-80-30-45-70-1-False
-Soporifik-Psy--328-60-48-23-43-90-42-1-False
-Hypnomade-Psy--483-85-73-35-73-115-67-1-False
-Krabby-Eau--325-30-105-45-25-25-50-1-False
-Krabboss-Eau--475-55-130-58-50-50-75-1-False
-Voltorbe-Electrik--330-40-30-25-55-55-100-1-False
-Electrode-Electrik--480-60-50-35-80-80-140-1-False
-Noeunoeuf-Plante-Psy-325-60-40-40-60-45-40-1-False
-Noadkoko-Plante-Psy-520-95-95-43-125-65-55-1-False
-Osselait-Sol--320-50-50-48-40-50-35-1-False
-Ossatueur-Sol--425-60-80-55-50-80-45-1-False
-Kicklee-Combat--455-50-120-27-35-110-87-1-False
-Tygnon-Combat--455-50-105-40-35-110-76-1-False
-Excelangue-Normal--385-90-55-38-60-75-30-1-False
-Smogo-Poison--340-40-65-48-60-45-35-1-False
-Smogogo-Poison--490-65-90-60-85-70-60-1-False
-Rhinocorne-Sol-Roche-345-80-85-48-30-30-25-1-False
-Rhinoferos-Sol-Roche-485-105-130-60-45-45-40-1-False
-Leveinard-Normal--450-250-5-3-35-105-50-1-False
-Saquedeneu-Plante--435-65-55-58-100-40-60-1-False
-Kangourex-Normal--490-105-95-40-40-80-90-1-False
-Hypotrempe-Eau--295-30-40-35-70-25-60-1-False
-Hypocean-Eau--440-55-65-48-95-45-85-1-False
-Poissirene-Eau--320-45-67-30-35-50-63-1-False
-Poissoroy-Eau--450-80-92-33-65-80-68-1-False
-Stari-Eau--340-30-45-28-70-55-85-1-False
-Staross-Eau-Psy-520-60-75-43-100-85-115-1-False
-M. Mime-Psy-Fee-460-40-45-33-100-120-90-1-False
-Insecateur-Insecte-Vol-500-70-110-40-55-80-105-1-False
-Lippoutou-Glace-Psy-455-65-50-18-115-95-95-1-False
-Elektek-Electrik--490-65-83-29-95-85-105-1-False
-Magmar-Feu--495-65-95-29-100-85-93-1-False
-Scarabrute-Insecte--500-65-125-50-55-70-85-1-False
-Tauros-Normal--490-75-100-48-40-70-110-1-False
-Magicarpe-Eau--200-20-10-28-15-20-80-1-False
-Leviator-Eau-Vol-540-95-125-40-60-100-81-1-False
-Lokhlass-Eau-Glace-535-130-85-40-85-95-60-1-False
-Metamorph-Normal--288-48-48-24-48-48-48-1-False
-Evoli-Normal--325-55-55-25-45-65-55-1-False
-Aquali-Eau--525-130-65-30-110-95-65-1-False
-Voltali-Electrik--525-65-65-30-110-95-130-1-False
-Pyroli-Feu--525-65-130-30-95-110-65-1-False
-Porygon-Normal--395-65-60-35-85-75-40-1-False
-Amonita-Roche-Eau-355-35-40-50-90-55-35-1-False
-Amonistar-Roche-Eau-495-70-60-63-115-70-55-1-False
-Kabuto-Roche-Eau-355-30-80-45-55-45-55-1-False
-Kabutops-Roche-Eau-495-60-115-53-65-70-80-1-False
-Ptera-Roche-Vol-515-80-105-33-60-75-130-1-False
-Ronflex-Normal--540-160-110-33-65-110-30-1-False
-Artikodin-Glace-Vol-580-90-85-50-95-125-85-1-True
-Electhor-Electrik-Vol-580-90-90-43-125-90-100-1-True
-Sulfura-Feu-Vol-580-90-100-45-125-85-90-1-True
-Minidraco-Dragon--300-41-64-23-50-50-50-1-False
-Draco-Dragon--420-61-84-33-70-70-70-1-False
-Dracolosse-Dragon-Vol-600-91-134-48-100-100-80-1-False
-Mewtwo-Psy--680-106-110-45-154-90-130-1-True
-Mew-Psy--600-100-100-50-100-100-100-1-False
-Germignon-Plante--318-45-49-33-49-65-45-2-False
-Macronium-Plante--405-60-62-40-63-80-60-2-False
-Meganium-Plante--525-80-82-50-83-100-80-2-False
-HerGlacendre-Feu--309-39-52-22-60-50-65-2-False
+Bulbizarre-Plante-Poison-318-45-49-25-65-65-45-1-False-Il a une etrange graine plantee sur son dos. Elle grandit avec lui depuis la naissance.-
+Herbizarre-Plante-Poison-405-60-62-32-80-80-60-1-False-Son bulbe dorsal devient si gros qu'il ne peut plus se tenir sur ses membres posterieurs.-
+Florizarre-Plante-Poison-525-80-82-42-100-100-80-1-False-Sa plante murit en absorbant les rayons du soleil. Il migre souvent vers les endroits ensoleilles.-
+Salameche-Feu--309-39-52-22-60-50-65-1-False-Il prefere les endroits chauds. En cas de pluie, de la vapeur se forme autour de sa queue.-
+Reptincel-Feu--405-58-64-29-80-65-80-1-False-En agitant sa queue, il peut elever le niveau de la temperature a un degre incroyable.-
+Dracaufeu-Feu-Vol-534-78-84-39-109-85-100-1-False-Il peut fondre la roche de son souffle brulant. Il est souvent la cause d'enormes incendies.-
+Carapuce-Eau--314-44-48-33-50-64-43-1-False-Son dos durcit avec l'age et devient une super carapace. Il peut cracher des jets d'ecume.-
+Carabaffe-Eau--405-59-63-40-65-80-58-1-False-Il se cache au fond de l'eau pour guetter sa proie. Ses oreilles sont des gouvernails.-
+Tortank-Eau--530-79-83-50-85-105-78-1-False-Un Pokemon brutal arme de canons hydrauliques. Ses puissants jets d'eau sont devastateurs.-
+Chenipan-Insecte--195-45-30-18-20-20-45-1-False-Ses petites pattes sont equipees de ventouses, lui permettant de grimper aux murs.-
+Chrysacier-Insecte--205-50-20-28-25-25-30-1-False-Il est vulnerable aux attaques tant que sa carapace fragile expose son corps tendre et mou.-
+Papilusion-Insecte-Vol-395-60-45-25-90-80-70-1-False-En combat il bat des ailes tres rapidement pour jeter sur ses ennemis des poudres toxiques.-
+Aspicot-Insecte-Poison-195-40-35-15-20-20-50-1-False-Il se nourrit de feuilles dans les forets. L'aiguillon sur son front est empoisonne.-
+Coconfort-Insecte-Poison-205-45-25-25-25-25-35-1-False-Incapable de se deplacer de lui meme, il se defend en durcissant sa carapace.-
+Dardargnan-Insecte-Poison-395-65-90-20-45-80-75-1-False-Il vole a tres grande vitesse. Il se bat avec les dards empoisonnes de ses bras.-
+Roucool-Normal-Vol-251-40-45-20-35-35-56-1-False-Il est souvent vu dans les forets. Il brasse l'air de ses ailes pres du sol pour projeter du sable.-
+Roucoups-Normal-Vol-349-63-60-28-50-50-71-1-False-Il protege son territoire avec ardeur et repousse a coups de bec tout individu.-
+Roucarnage-Normal-Vol-479-83-80-38-70-70-101-1-False-Il chasse en survolant la surface de l'eau et en plongeant pour attraper des proies faciles.-
+Rattata-Normal--253-30-56-18-25-35-72-1-False-Sa morsure est tres puissante. Petit et rapide, on en voit un peu partout.-
+Rattatac-Normal--413-55-81-30-50-70-97-1-False-Si ses moustaches sont coupees, il perds le sens de son equilibre et devient moins rapide.-
+Piafabec-Normal-Vol-262-40-60-15-31-31-70-1-False-Il chasse les insectes dans les hautes-herbes. Ses petites ailes lui permettent de voler tres vite.-
+Rapasdepic-Normal-Vol-442-65-90-33-61-61-100-1-False-Ses ailes geantes lui permettent de planer si longtemps qu'il ne se pose que tres rarement.-
+Abo-Poison--288-35-60-22-40-54-55-1-False-Il se deplace en silence pour devorer des œufs de Roucool ou de Piafabec.-
+Arbok-Poison--438-60-85-35-65-79-80-1-False-Les motifs feroces peints sur son corps changent selon son environnement.-
+Pikachu-Electrik--320-35-55-20-50-50-90-1-False-Quand plusieurs de ces Pokemon se reunissent, ils provoquent de gigantesques orages.-
+Raichu-Electrik--485-60-90-28-90-80-110-1-False-Il doit garder sa queue en contact avec le sol pour eviter toute electrocution.-
+Sabelette-Sol--300-50-75-43-20-30-40-1-False-Il s'enterre dans les regions arides et desertiques. Il emerge seulement pour chasser.-
+Sablaireau-Sol--450-75-100-55-45-55-65-1-False-Il se roule en boule herissee de piques s'il est menace. Il peut ainsi s'enfuir ou attaquer.-
+Nidoran femelle-Poison--275-55-47-26-40-40-41-1-False-Ce Pokemon est herisse de dards empoisonnes. Les femelles ont des dards plus petits.-
+Nidorina-Poison--365-70-62-34-55-55-56-1-False-La corne de la femelle grandit lentement. Elle prefere attaquer avec ses griffes et sa gueule.-
+Nidoqueen-Poison-Sol-505-90-92-44-75-85-76-1-False-Ses ecailles tres resistantes et son corps massif sont des armes devastatrices.-
+Nidoran male-Poison--273-46-57-20-40-40-50-1-False-Son ouie tres fine l'avertit du danger. Plus ses cornes sont grandes, plus son poison est mortel.-
+Nidorino-Poison--365-61-72-29-55-55-65-1-False-Tres agressif, il est prompt a repondre a la violence. La corne sur sa tete est venimeuse.-
+Nidoking-Poison-Sol-505-81-102-39-85-75-85-1-False-Sa queue est une arme redoutable, il s'en sert pour attraper sa proie et lui broyer les os.-
+Melofee-Fee--323-70-45-24-60-65-35-1-False-Tres recherche pour son aura mystique, il est tres rare et ne vit que dans des endroits precis.-
+Melodelfe-Fee--483-95-70-37-95-90-60-1-False-Une sorte de petite fee tres rare. Il se cache en apercevant un etre humain.-
+Goupix-Feu--299-38-41-20-50-65-65-1-False-Il n'a qu'une seule queue a la naissance. Celle-ci se divise a la pointe au fil des ans.-
+Feunard-Feu--505-73-76-38-81-100-100-1-False-Tres intelligent et rancunier. Attrapez-lui une de ses queues et il vous maudira pour 1000 ans.-
+Rondoudou-Normal-Fee-270-115-45-10-45-25-20-1-False-Quand ses yeux s'illuminent, il chante une mysterieuse berceuse.-
+Grodoudou-Normal-Fee-435-140-70-23-85-50-45-1-False-En cas de danger, il gonfle d'air son corps doux et potele dans des proportions gigantesques.-
+Nosferapti-Poison-Vol-245-40-45-18-30-40-55-1-False-Se deplace en colonie dans les endroits sombres. Il s'oriente grace aux ultrasons.-
+Nosferalto-Poison-Vol-455-75-80-35-65-75-90-1-False-Une fois son adversaire mordu, il absorbera son energie meme s'il est trop gros pour voler.-
+Mystherbe-Plante-Poison-320-45-50-28-75-65-30-1-False-Pendant la journee il se cache sous la terre. Il s'aventure la nuit pour planter des graines.-
+Ortide-Plante-Poison-395-60-65-35-85-75-40-1-False-Le liquide qui coule de sa bouche est comestible. Il sert a appater sa proie.-
+Rafflesia-Plante-Poison-490-75-80-43-110-90-50-1-False-Plus ses petales son grands, plus ils contiennent de pollen toxique.-
+Paras-Insecte-Plante-285-35-70-28-45-55-25-1-False-Les champignons sur son dos se nourrissent des nutriments de leur hote insectoide.-
+Parasect-Insecte-Plante-405-60-95-40-60-80-30-1-False-Une symbiose entre un parasite et un insecte. Le champignon a pris le controle de son hote.-
+Mimitoss-Insecte-Poison-305-60-55-25-40-55-45-1-False-Il vit a l'ombre des grands arbres ou il mange des insectes. il est attire par la lumiere.-
+Aeromite-Insecte-Poison-450-70-65-30-90-75-90-1-False-Les motifs ocres de ses ailes changent en fonction de son type de poison.-
+Taupiqueur-Sol--265-10-55-13-35-45-95-1-False-Il vit a un metre sous la terre et se nourrit de racines. Il apparaît rarement a la surface.-
+Triopikeur-Sol--405-35-80-25-50-70-120-1-False-Un groupe de Taupiqueur. Il cree des seismes en creusant a plus de 100 Km de profondeur.-
+Miaouss-Normal--290-40-45-18-40-40-90-1-False-Il adore les pieces de monnaie. Il hante les rues a la recherche de pieces oubliees par les passants.-
+Persian-Normal--440-65-70-30-65-65-115-1-False-Tres apprecie pour sa fourrure, il est difficile a apprivoiser en raison de son caractere retif.-
+Psykokwak-Eau--320-50-52-24-65-50-55-1-False-Il distrait ses ennemis avec des grimaces debiles et les attaque ensuite avec ses pouvoirs Psy.-
+Akwakwak-Eau--500-80-82-39-95-80-85-1-False-Il nage avec elegance le long des cotes. Il est souvent confondu avec le monstre japonais: Kappa.-
+Ferosinge-Combat--305-40-80-18-35-45-70-1-False-Il se met en colere tres vite. Calme ou furieux, son humeur change d'une seconde a l'autre.-
+Colossinge-Combat--455-65-105-30-60-70-95-1-False-Agressif et teigneux, il poursuit son gibier jusqu'a epuisement complet.-
+Caninos-Feu--350-55-70-23-70-50-60-1-False-Pour proteger son territoire, il aboie et mord jusqu'a ce que les intrus s'enfuient.-
+Arcanin-Feu--555-90-110-40-100-80-95-1-False-Un Pokemon tres recherche pour sa grace legendaire. Son pas elegant semble glisser sur le vent.-
+Ptitard-Eau--300-40-50-20-40-40-90-1-False-Il court mal avec ses petites pattes. Il prefere nager que de se tenir debout.-
+Tetarte-Eau--385-65-65-33-50-50-90-1-False-Amphibie, il peut vivre a l'air libre mais il doit rester mouille pour survivre.-
+Tartard-Eau-Combat-510-90-95-48-70-90-70-1-False-Excellent nageur, il pratique le crawl ou la nage papillon mieux qu'un champion olympique.-
+Abra-Psy--310-25-20-8-105-55-90-1-False-Son don de telepathie lui permet de sentir le danger et de se teleporter en un lieu sur.-
+Kadabra-Psy--400-40-35-15-120-70-105-1-False-Son corps emet des ondes alpha provoquant des migraines a ceux qui se trouvent a proximite.-
+Alakazam-Psy--500-55-50-23-135-95-120-1-False-Son super cerveau peut effectuer des operations a la vitesse d'un ordinateur. Il a un Q.I. de 5000.-
+Machoc-Combat--305-70-80-25-35-35-35-1-False-Il adore la musculation. Il pratique les arts martiaux pour devenir encore plus fort.-
+Machopeur-Combat--405-80-100-35-50-60-45-1-False-Son corps est si puissant qu'il lui faut une ceinture de force pour equilibrer ses mouvements.-
+Mackogneur-Combat--505-90-130-40-65-85-55-1-False-Ses coups de poings sont si puissants qu'ils font voler ses adversaires jusqu'a l'horizon.-
+Chetiflor-Plante-Poison-300-50-75-18-70-30-40-1-False-Un Pokemon carnivore qui se nourrit de petits insectes. Ses racines servent d'attaches.-
+Boustiflor-Plante-Poison-390-65-90-25-85-45-55-1-False-Il crache de la Poudre Toxik pour immobiliser sa proie et il l'acheve avec de l'Acide.-
+Empiflor-Plante-Poison-490-80-105-33-100-70-70-1-False-Il vit en colonie dans la jungle mais personne n'en est jamais revenu vivant.-
+Tentacool-Eau-Poison-335-40-40-18-50-100-70-1-False-Flottant au bord des cotes, les pecheurs se font souvent arroser d'acide quand ils en accrochent un.-
+Tentacruel-Eau-Poison-515-80-70-33-80-120-100-1-False-Ses tentacules sont retractees au repos. En situation de chasse, ils rallongent.-
+Racaillou-Roche-Sol-300-40-80-50-30-30-20-1-False-Il vit dans les plaines ou les montagnes. On le confond souvent avec un petit caillou.-
+Gravalanch-Roche-Sol-390-55-95-58-45-45-35-1-False-Pour se deplacer il degringole le long des pentes. Il pulverise tout obstacle sur son passage.-
+Grolem-Roche-Sol-495-80-120-65-55-65-45-1-False-Son corps de pierre est indestructible. Il peut supporter des explosions de dynamite.-
+Ponyta-Feu--410-50-85-28-65-65-90-1-False-Ses sabots sont plus resistants que le diamant. Il peut aplatir n'importe quoi en le pietinant.-
+Galopa-Feu--500-65-100-35-80-80-105-1-False-Dote d'un esprit de competition, il poursuit toute creature rapide pour faire la course.-
+Ramoloss-Eau-Psy-315-90-65-33-40-40-15-1-False-Tres lent et endormi, il lui faut 5 secondes pour ressentir la douleur d'une attaque.-
+Flagadoss-Eau-Psy-490-95-75-55-100-80-30-1-False-Le Kokiyas attache a la queue du Ramoloss se nourrit des restes de son hote.-
+Magneti-Electrik-Acier-325-25-35-35-95-55-45-1-False-Il controle la gravite pour pouvoir voler. il attaque avec des Cage-eclair.-
+Magneton-Electrik-Acier-465-50-60-48-120-70-70-1-False-Constitue de Magneti relies les uns aux autres, il apparaît lorsque le soleil brille.-
+Canarticho-Normal-Vol-352-52-65-28-58-62-60-1-False-Il utilise l'oignon qu'il a dans la bouche comme une epee d'acier.-
+Doduo-Normal-Vol-310-35-85-23-35-35-75-1-False-Cet oiseau vole tres mal mais court tres vite. Il laisse de gigantesques empreintes de pas.-
+Dodrio-Normal-Vol-460-60-110-35-60-60-100-1-False-Il elabore des plans complexes avec ses trois cerveaux. Une de ses tetes reste toujours eveillee.-
+Otaria-Eau--325-65-45-28-45-70-45-1-False-La corne sur son front est tres resistante. Elle lui sert a percer des blocs de glace.-
+Lamantine-Eau-Glace-475-90-70-40-70-95-70-1-False-Il emmagasine la chaleur dans son corps. Il peut nager dans l'eau glacee a plus de 8 nœuds.-
+Tadmorv-Poison--325-80-80-25-40-50-25-1-False-Vivant dans des tas d'ordure, il se nourrit des dechets polluants rejetes par les usines.-
+Grotadmorv-Poison--500-105-105-38-65-100-50-1-False-Il est recouvert d'une epaisse couche toxique. Il laisse une trace empoisonnee derriere lui.-
+Kokiyas-Eau--305-30-65-50-45-25-40-1-False-Protege par une carapace tres resistante, il est vulnerable quand celle-ci s'ouvre.-
+Crustabri-Eau-Glace-525-50-95-90-85-45-70-1-False-Une fois menace, il envoie de rapides volees de dards. Sa partie interne est inconnue.-
+Fantominus-Spectre-Poison-310-30-35-15-100-35-80-1-False-Ce Pokemon gazeux plonge ses victimes dans un profond sommeil sans qu'elles ne s'en apercoivent.-
+Spectrum-Spectre-Poison-405-45-50-23-115-55-95-1-False-Il peut se glisser a travers les murs comme une creature d'une autre dimension.-
+Ectoplasma-Spectre-Poison-500-60-65-30-130-75-110-1-False-Les nuits de pleine lune, il imite l'ombre des passants et se moque de leur effroi.-
+Onix-Roche-Sol-385-35-45-80-30-45-70-1-False-Les parties en pierre de son corps durcissent pour devenir comme un diamant de couleur noire.-
+Soporifik-Psy--328-60-48-23-43-90-42-1-False-Il endort ses ennemis et devore leurs songes. En mangeant de mauvais reves il devient malade.-
+Hypnomade-Psy--483-85-73-35-73-115-67-1-False-En fixant son adversaire, il l'assaille avec les attaques psy d'hypnose et de Choc Mental.-
+Krabby-Eau--325-30-105-45-25-25-50-1-False-Ses pinces sont des armes tres puissantes. Elles lui servent aussi a garder son equilibre.-
+Krabboss-Eau--475-55-130-58-50-50-75-1-False-Son enorme pince peut deployer une pression de 1000 Kg. Mais elle est tres encombrante.-
+Voltorbe-Electrik--330-40-30-25-55-55-100-1-False-Vivant dans les centrales, ce Pokemon survolte est souvent confondu avec une Poke Ball.-
+Electrode-Electrik--480-60-50-35-80-80-140-1-False-Il emmagasine des quantites enormes de courants electrique sous pression pouvant exploser.-
+Noeunoeuf-Plante-Psy-325-60-40-40-60-45-40-1-False-Souvent pris pour des Œufs, ils attaquent en groupe comme un essaim.-
+Noadkoko-Plante-Psy-520-95-95-43-125-65-55-1-False-On raconte que si une de ses tetes se detache, elle se transforme en Noeunoeuf.-
+Osselait-Sol--320-50-50-48-40-50-35-1-False-Il ne retire jamais son casque en os. Personne n'a jamais vu son vrai visage.-
+Ossatueur-Sol--425-60-80-55-50-80-45-1-False-L'os qu'il tient dans sa main est une arme. Il peut le lancer avec adresse pour assommer sa proie.-
+Kicklee-Combat--455-50-120-27-35-110-87-1-False-S'il est presse, ses jambes s'allongent progressivement. Il court tres rapidement.-
+Tygnon-Combat--455-50-105-40-35-110-76-1-False-Il distribue des series de coups de poings rapide comme l'eclair, invisibles a l'œil nu.-
+Excelangue-Normal--385-90-55-38-60-75-30-1-False-Il peut projeter sa langue comme un cameleon. Tout contact avec elle produit une irritation.-
+Smogo-Poison--340-40-65-48-60-45-35-1-False-Son corps instable constitue de gaz toxiques peut exploser soudainement.-
+Smogogo-Poison--490-65-90-60-85-70-60-1-False-Deux Smogo peuvent se combiner en un seul Smogogo en melangeant leur gaz.-
+Rhinocorne-Sol-Roche-345-80-85-48-30-30-25-1-False-Avec une ossature 1000 fois plus resistante que celle de l'homme, ses charges sont devastatrices.-
+Rhinoferos-Sol-Roche-485-105-130-60-45-45-40-1-False-Son epiderme tres eleve lui permet de survivre dans un environnement de plus de 3600 degres.-
+Leveinard-Normal--450-250-5-3-35-105-50-1-False-Un Pokemon rare et difficile a capturer qui porte chance et bien-etre a son possesseur.-
+Saquedeneu-Plante--435-65-55-58-100-40-60-1-False-Son corps est recouvert de lianes similaires a des algues. Elles bougent quand il marche.-
+Kangourex-Normal--490-105-95-40-40-80-90-1-False-Son enfant ne quitte la poche ventrale protectrice qu'a l'age de 3 ans.-
+Hypotrempe-Eau--295-30-40-35-70-25-60-1-False-Repute pour tirer avec precision sur des insectes volants a la surface de l'eau.-
+Hypocean-Eau--440-55-65-48-95-45-85-1-False-Il peut nager a l'envers en agitant ses petites nageoire pectorales.-
+Poissirene-Eau--320-45-67-30-35-50-63-1-False-Sa queue ondule gracieusement comme un voile. On l'appelle Reine des oceans.-
+Poissoroy-Eau--450-80-92-33-65-80-68-1-False-Pendant la saison des amours on peut le voir nager pres des rivieres ou des lacs.-
+Stari-Eau--340-30-45-28-70-55-85-1-False-Un Pokemon bien curieux qui peut regenerer ses appendices sectionnes pendant un combat.-
+Staross-Eau-Psy-520-60-75-43-100-85-115-1-False-Son cœur brille des couleurs de l'arc-en-ciel. On dit que c'est une pierre precieuse.-
+M. Mime-Psy-Fee-460-40-45-33-100-120-90-1-False-Derangez le pendant qu'il mime, et il vous distribuera une volee de claques.-
+Insecateur-Insecte-Vol-500-70-110-40-55-80-105-1-False-Rapide et agile comme un ninja, il se deplace si vite qu'il cree l'illusion d'etre en groupe.-
+Lippoutou-Glace-Psy-455-65-50-18-115-95-95-1-False-Il ondule ses hanches en marchant et entraine les gens dans des danses frenetiques.-
+Elektek-Electrik--490-65-83-29-95-85-105-1-False-Vivant dans les centrales, il provoque des pannes de courant en s'aventurant en ville.-
+Magmar-Feu--495-65-95-29-100-85-93-1-False-Son corps en fusion brule d'une flamme orangee le rendant invisible dans le feu.-
+Scarabrute-Insecte--500-65-125-50-55-70-85-1-False-Quand il ne peut ecraser sa proie avec sa pince, il la secoue et l'envoie dans les airs.-
+Tauros-Normal--490-75-100-48-40-70-110-1-False-Une fois sa cible en vue, il la charge furieusement en fouettant l'air de sa queue.-
+Magicarpe-Eau--200-20-10-28-15-20-80-1-False-Autrefois, il etait beaucoup plus puissant que cette creature minablement faible.-
+Leviator-Eau-Vol-540-95-125-40-60-100-81-1-False-Gigantesque et malefique, il est capable de raser une ville entiere dans un acces de rage.-
+Lokhlass-Eau-Glace-535-130-85-40-85-95-60-1-False-Ce Pokemon en voie d'extinction peut transporter des passagers sur son dos par-dela les oceans.-
+Metamorph-Normal--288-48-48-24-48-48-48-1-False-Il est capable de copier le code genetique d'un ennemi pour se transformer en son double.-
+Evoli-Normal--325-55-55-25-45-65-55-1-False-Ce mysterieux Pokemon peut evoluer de differentes facons grace a des pierres.-
+Aquali-Eau--525-130-65-30-110-95-65-1-False-Il vit au bord de l'eau. Sa queue lui donne l'apparence d'une sirene.-
+Voltali-Electrik--525-65-65-30-110-95-130-1-False-Il se charge delectricite statique pour envoyer des decharges de 1000 volts.-
+Pyroli-Feu--525-65-130-30-95-110-65-1-False-Il peut accumuler suffisamment de chaleur pour atteindre des temperatures de 1 600 degres.-
+Porygon-Normal--395-65-60-35-85-75-40-1-False-Un Pokemon fait de programmes et d'algorithmes. Il peut survivre en milieu virtuel.-
+Amonita-Roche-Eau-355-35-40-50-90-55-35-1-False-Disparu depuis longtemps,il peut etre reanime genetiquement a partir d'anciens fossiles.-
+Amonistar-Roche-Eau-495-70-60-63-115-70-55-1-False-Un Pokemon prehistorique qui disparut quand sa coquille devint trop lourde a deplacer.-
+Kabuto-Roche-Eau-355-30-80-45-55-45-55-1-False-Un Pokemon reconstitue a partir d'un fossile trouve sur un site prehistorique.-
+Kabutops-Roche-Eau-495-60-115-53-65-70-80-1-False-Sa forme elancee lui permet de nager rapidement. Il lacere sa proie avant d'en absorber la vie.-
+Ptera-Roche-Vol-515-80-105-33-60-75-130-1-False-Un Pokemon prehistorique qui attaque son ennemi a la gorge avec ses crocs aceres.-
+Ronflex-Normal--540-160-110-33-65-110-30-1-False-Tres paresseux, il ne fait que manger et dormir. Plus il est gros, plus il devient faineant.-
+Artikodin-Glace-Vol-580-90-85-50-95-125-85-1-True-Le legendaire oiseau des glaces. On dit qu'il apparaît aux gens perdus dans les sommets.-
+Electhor-Electrik-Vol-580-90-90-43-125-90-100-1-True-L'oiseau legendaire de la foudre. Il surgit hors des nuages en lancant d'enormes eclairs.-
+Sulfura-Feu-Vol-580-90-100-45-125-85-90-1-True-Le legendaire oiseau de feu. Une pluie de flammes surgit a chaque battement de ses ailes.-
+Minidraco-Dragon--300-41-64-23-50-50-50-1-False-Longtemps considere comme legendaire, une colonie fut decouverte dans les oceans.-
+Draco-Dragon--420-61-84-33-70-70-70-1-False-Un Pokemon legendaire plein de charme. Il peut controler les variations climatiques.-
+Dracolosse-Dragon-Vol-600-91-134-48-100-100-80-1-False-Un Pokemon marin extremement rare. On dit qu'il est aussi intelligent que l'homme.-
+Mewtwo-Psy--680-106-110-45-154-90-130-1-True-Il est le fruit de nombreuses experiences genetiques horribles et malsaines.-
+Mew-Psy--600-100-100-50-100-100-100-1-False-Unique et rare, son existence est remise en cause par les experts. Peu nombreux sont ceux qui l'ont vu.-
+Gero-Fourbe-Tyran-??-??-??-??-??-??-??-1-True-Ce pokemon rare peut etre detectee par la presence d'un piou dans les environs | Peut etre invoque en reunissant les conditions favorables a l'etablissement d'une TIG, ne vous fiez pas a son air tout mignon !-
+Sherpa-Debug-Sadik-??-??-??-??-??-??-??-1-True-Le legendaire debugger de 42. Il est le plus souvent debusque derriere un terminal. Aime jouer aux sudokus a 0 cases-
+Marie-Fee-Ombre-??-??-??-??-??-??-??-1-True-Ce pokemon rarement apercu apparait souvent armee de son iPhone pour extorquer l'image de pauvres etudiants tortures afin de les exposer sur TikTok-
+Germignon-Plante--318-45-49-33-49-65-45-2-False--
+Macronium-Plante--405-60-62-40-63-80-60-2-False-
+Meganium-Plante--525-80-82-50-83-100-80-2-False-
+HerGlacendre-Feu--309-39-52-22-60-50-65-2-False-
 Feurisson-Feu--405-58-64-29-80-65-80-2-False
 Typhlosion-Feu--534-78-84-39-109-85-100-2-False
 Kaiminus-Eau--314-50-65-32-44-48-43-2-False
@@ -199,7 +202,7 @@ Mentali-Psy--525-65-65-30-130-95-110-2-False
 Noctali-Tenebres--525-95-65-55-60-130-65-2-False
 Cornebre-Tenebres-Vol-405-60-85-21-85-42-91-2-False
 Roigada-Eau-Psy-490-95-75-40-100-110-30-2-False
-Feuforêve-Spectre--435-60-60-30-85-85-85-2-False
+Feuforeve-Spectre--435-60-60-30-85-85-85-2-False
 Zarbi-Psy--336-48-72-24-72-48-48-2-False
 Qulbutoke-Psy--405-190-33-29-33-58-33-2-False
 Girafarig-Normal-Psy-455-70-80-33-90-65-85-2-False
@@ -461,7 +464,7 @@ Grodrive-Spectre-Vol-498-150-80-22-90-54-80-4-False
 Laporeille-Normal--350-55-66-22-44-56-85-4-False
 Lockpin-Normal--480-65-76-42-54-96-105-4-False
 Mega-Lockpin-Normal-Combat-580-65-136-47-54-96-135-4-False
-Magirêve-Spectre--495-60-60-30-105-105-105-4-False
+Magireve-Spectre--495-60-60-30-105-105-105-4-False
 Corboss-Tenebres-Vol-505-100-125-26-105-52-71-4-False
 Chaglam-Normal--310-49-55-21-42-37-85-4-False
 Chaffreux-Normal--452-71-82-32-64-59-112-4-False
@@ -470,7 +473,7 @@ Moufouette-Poison-Tenebres-329-63-63-24-41-41-74-4-False
 Moufflair-Poison-Tenebres-479-103-93-34-71-61-84-4-False
 Archeomire-Acier-Psy-300-57-24-43-24-86-23-4-False
 Archeodong-Acier-Psy-500-67-89-58-79-116-33-4-False
-Manzaï-Roche--290-50-80-48-10-45-10-4-False
+Manzai-Roche--290-50-80-48-10-45-10-4-False
 Mime Jr.-Psy-Fee-310-20-25-23-70-90-60-4-False
 Ptiravi-Normal--220-100-5-3-15-65-30-4-False
 Pijako-Normal-Vol-411-76-65-23-92-42-91-4-False
@@ -574,8 +577,8 @@ Chovsourir-Psy-Vol-313-55-45-22-55-43-72-5-False
 Rhinolove-Psy-Vol-425-67-57-28-77-55-114-5-False
 Rototaupe-Sol--328-60-85-20-30-45-68-5-False
 Minotaupe-Sol-Acier-508-110-135-30-50-65-88-5-False
-Nanmeouïe-Normal--445-103-60-43-60-86-50-5-False
-Mega-Nanmeouïe-Normal-Fee-545-103-60-63-80-126-50-5-False
+Nanmeouie-Normal--445-103-60-43-60-86-50-5-False
+Mega-Nanmeouie-Normal-Fee-545-103-60-63-80-126-50-5-False
 Charpenti-Combat--305-75-80-28-25-35-35-5-False
 Ouvrifier-Combat--405-85-105-43-40-50-40-5-False
 Betochef-Combat--505-105-140-48-55-65-45-5-False
@@ -595,7 +598,7 @@ Farfaduvet-Plante-Fee-480-60-67-43-77-75-116-5-False
 Chlorobule-Plante--280-45-35-25-70-50-30-5-False
 Fragilady-Plante--480-70-60-38-110-75-90-5-False
 Bargantua-Eau--460-70-92-33-80-55-98-5-False
-Mascaïman-Sol-Tenebres-292-50-72-18-35-35-65-5-False
+Mascaiman-Sol-Tenebres-292-50-72-18-35-35-65-5-False
 Escroco-Sol-Tenebres-351-60-82-23-45-45-74-5-False
 Crocorible-Sol-Tenebres-519-95-117-40-65-70-92-5-False
 Darumarond-Feu--315-70-90-23-15-45-50-5-False
@@ -605,7 +608,7 @@ Maracachi-Plante--461-75-86-34-106-67-60-5-False
 Crabicoque-Insecte-Roche-325-50-65-43-35-35-55-5-False
 Crabaraque-Insecte-Roche-475-70-95-63-65-75-45-5-False
 Baggiguane-Tenebres-Combat-348-50-75-35-35-70-48-5-False
-Baggaïd-Tenebres-Combat-488-65-90-58-45-115-58-5-False
+Baggaid-Tenebres-Combat-488-65-90-58-45-115-58-5-False
 Cryptero-Psy-Vol-490-72-58-40-103-80-97-5-False
 Tutafeh-Spectre--303-38-30-43-55-65-30-5-False
 Tutankafer-Spectre--483-58-50-73-95-105-30-5-False
@@ -760,7 +763,7 @@ Mucuscule-Dragon--300-45-50-18-55-75-40-6-False
 Colimucus-Dragon--452-68-75-27-83-113-60-6-False
 Muplodocus-Dragon--600-90-100-35-110-150-80-6-False
 Trousselin-Acier-Fee-470-57-80-46-80-87-75-6-False
-Brocelôme-Spectre-Plante-309-43-70-24-50-60-38-6-False
+Brocelome-Spectre-Plante-309-43-70-24-50-60-38-6-False
 Desseliande-Spectre-Plante-474-85-110-38-65-82-56-6-False
 Pitrouille (Taille Mini)-Spectre-Plante-335-49-66-35-44-55-51-6-False
 Pitrouille (Taille Normale)-Spectre-Plante-335-44-66-35-44-55-56-6-False
@@ -770,7 +773,7 @@ Banshitrouye (Taille Mini)-Spectre-Plante-494-65-90-61-58-75-84-6-False
 Banshitrouye (Taille Normale)-Spectre-Plante-494-55-85-61-58-75-99-6-False
 Banshitrouye (Taille Maxi)-Spectre-Plante-494-75-95-61-58-75-69-6-False
 Banshitrouye (Taille Ultra)-Spectre-Plante-494-85-100-61-58-75-54-6-False
-Grelaçon-Glace--304-55-69-43-32-35-28-6-False
+Grelacon-Glace--304-55-69-43-32-35-28-6-False
 Seracrawl-Glace--514-95-117-92-44-46-28-6-False
 Sonistrelle-Vol-Dragon-245-40-30-18-45-40-55-6-False
 Bruyverne-Vol-Dragon-535-85-70-40-97-80-123-6-False
