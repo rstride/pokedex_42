@@ -75,7 +75,7 @@ int main(int argc, char const *argv[])
 	
 	nb_pkm = fill_db(lst_pkm);
 	printf("\n");
-	printf("\t     \033[1m%d\033[0m pokémons enregistrés\n\n\n", nb_pkm);
+	printf("\t     \033[1m%d\033[0m pokémons enregistrés\n\n\n", nb_pkm - 2);
 	my_delay(2500);	//2000
 
 	pkmn_nbr = 1;
