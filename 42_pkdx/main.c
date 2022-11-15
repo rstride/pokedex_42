@@ -65,24 +65,24 @@ int main(int argc, char const *argv[])
 	//compile_error();
 	//logo(argv[1]);
 	system("clear");
-	write(1, "Lecture de la base de donnees", 29);
+	write(1, "\n\t   Lecture de la base de donnees", 33);
 	for (int i = 0; i < 3; i ++)
 	{
 		write(1, ".", 1);
-		my_delay(700);	//700
+		my_delay(1000);	//700
 	}
 	//pkm_db = create_db();
 	
 	nb_pkm = fill_db(lst_pkm);
 	printf("\n");
-	printf("    %d pokémons enregistrés\n\n\n", nb_pkm);
-	my_delay(2000);	//2000
+	printf("\t     \033[1m%d\033[0m pokémons enregistrés\n\n\n", nb_pkm);
+	my_delay(2500);	//2000
 
 	pkmn_nbr = 1;
 	while (pkmn_nbr != 0)
 	{
 		system("clear");
-		printf("\033[1m*** Bienvenue sur le Pokedex ***\nEntrez un numero de Pokemon\n\033[0m> ");
+		printf("\033[1m\n\t  *** Bienvenue sur le Pokedex ***\n\t    Entrez un numero de Pokemon\n\033[0m\t\t   > ");
 
 		scanf("%d", &pkmn_nbr);
 		//printf("%d", pkmn_nbr);
@@ -104,7 +104,7 @@ int main(int argc, char const *argv[])
 				//printf("%s", cri);
 				system(cri);
 			}
-			printf("\n        Appuyez sur entree pour continuer");
+			printf("\n\t\t\t\tAppuyez sur entree pour continuer");
 			getchar();
 			getchar();
 		}

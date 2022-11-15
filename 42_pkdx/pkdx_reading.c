@@ -18,12 +18,12 @@ struct poke
 
 int	select_pkm(struct poke *data, int pkmn_nbr)
 {
-	printf("\033[1mN°%d\033[0m\tNom : \033[1m%s\033[0m | Type : %s", pkmn_nbr, data[pkmn_nbr - 1].name, data[pkmn_nbr - 1].type1);
+	printf("\033[1m\tN°%d\033[0m\tNom : \033[1m%s\033[0m | Type : %s", pkmn_nbr, data[pkmn_nbr - 1].name, data[pkmn_nbr - 1].type1);
 	if (data[pkmn_nbr - 1].type2[0] != ' ' && data[pkmn_nbr - 1].type2[0] != '\0')
 		printf(" / %s", data[pkmn_nbr - 1].type2);
 	printf("\n");
 
-	printf("\tHP : %s | Att : %s | Def : %s\n", data[pkmn_nbr - 1].hp, data[pkmn_nbr - 1].att, data[pkmn_nbr - 1].def);
+	printf("\t\tHP : %s | Att : %s | Def : %s\n", data[pkmn_nbr - 1].hp, data[pkmn_nbr - 1].att, data[pkmn_nbr - 1].def);
 	printf("\n");
 
 	printf("%s\n\n", data[pkmn_nbr - 1].descr);
