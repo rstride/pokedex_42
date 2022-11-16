@@ -6,7 +6,7 @@
 /*   By: rstride <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/09 14:47:44 by rstride           #+#    #+#             */
-/*   Updated: 2022/11/09 15:15:58 by rstride          ###   ########.fr       */
+/*   Updated: 2022/11/16 15:58:23 by rstride          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -149,7 +149,7 @@ int main(int argc, char const *argv[])
 			{
 				char nbr[5];
 				sprintf(nbr, "%d", pkmn_nbr);
-				char cri[100] = "paplay voices/Cri_4_d_";
+				char cri[100] = "paplay 42_pkdx/voices/Cri_4_d_";
 				if (pkmn_nbr < 10)
 					strcat(cri, "00");
 				else if (pkmn_nbr < 100)

@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   read_pkdx.c                                        :+:      :+:    :+:   */
+/*   db_manipulation.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: rstride <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/09 14:47:51 by rstride           #+#    #+#             */
-/*   Updated: 2022/11/09 15:14:34 by rstride          ###   ########.fr       */
+/*   Updated: 2022/11/16 15:54:31 by rstride          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,7 +32,7 @@ void read_csv(int row, int col, char *filename, double **data);
 int	fill_db(struct poke *lst_pkm)
 {
     FILE *file;
-    file = fopen("pkdx.csv", "r");
+    file = fopen("42_pkdx/db/pkdx.csv", "r");
 
     int i = 0;
     int row = 155;
